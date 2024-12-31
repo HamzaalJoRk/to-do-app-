@@ -1,15 +1,11 @@
-# tod0
+# to-do-app
 
 
 Clone the Repository
 
-bash
 نسخ الكود
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/HamzaalJoRk/to-do-app-.git
+cd to-do-app-
 Install Dependencies
 قم بتثبيت الحزم المطلوبة عن طريق تشغيل الأمر التالي:
-
-arduino
-نسخ الكود
 flutter pub get
