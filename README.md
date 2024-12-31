@@ -1,16 +1,15 @@
 # tod0
 
-A new Flutter project.
 
-## Getting Started
+Clone the Repository
 
-This project is a starting point for a Flutter application.
+bash
+نسخ الكود
+git clone https://github.com/username/project-name.git
+cd project-name
+Install Dependencies
+قم بتثبيت الحزم المطلوبة عن طريق تشغيل الأمر التالي:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+arduino
+نسخ الكود
+flutter pub get
